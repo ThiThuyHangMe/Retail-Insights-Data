@@ -1,4 +1,4 @@
-# Retail-Insights-Data
+# Retail-Insights-Analysis-Dashboard
 ***Power BI Dashboard***: [HERE](https://app.powerbi.com/view?r=eyJrIjoiZmJjMzAzOTAtZjIyNi00MmE2LTlhZDMtMzM2ODEwYTg3M2FjIiwidCI6IjY4ODIzZjc1LTlkNzItNDBiYy05OGY0LTA1NDczZmM5OWM1YiJ9)
 
 ## Overview
