@@ -8,7 +8,7 @@ This project showcases an interactive Power BI dashboard that provides comprehen
 **Sale Performance**
 ![image](https://github.com/user-attachments/assets/b9f0c268-09ce-4520-8365-d46ab7dc5119)
 
-** Customer Overview**
+**Customer Overview**
 ![image](https://github.com/user-attachments/assets/50e3ddd0-cf60-4ac2-9e62-f2101538ecf2)
 
 
@@ -20,26 +20,26 @@ The dataset comes from company sales records, including information on sales tra
 - The raw data contained inconsistencies such as duplicate entries, missing values, and improperly formatted fields. Excel was used for:    
     + Removing duplicates to ensure unique customer and sales data.
     + Handling missing values by filling in gaps with averages or removing irrelevant entries.
-    + Standardizing date formats and normalizing numerical fields such as sales and profits, ensuring the data was clean and ready for analysis.
+    + Standardising date formats and normalising numerical fields such as sales and profits, ensuring the data was clean and ready for analysis.
 ## SQL for In-Depth Analysis
 - After cleaning, the data was imported into a SQL database for deeper analysis. SQL allowed us to:
     + Aggregate data by calculating total sales, profit, and orders by year, product category, and customer segment.
     + Segment customers based on purchase behavior, such as frequency and recency of orders.
     + Perform complex queries to calculate KPIs such as total units sold, average order value, and profit margins, providing a detailed view of business performance.
-## Power BI for Visualization
-- The cleaned and analyzed data was then imported into Power BI for creating dynamic and interactive visualizations. Power BI enabled us to:
+## Power BI for Visualisation
+- The cleaned and analysed data was then imported into Power BI for creating dynamic and interactive visualisations. Power BI enabled us to:
     + Create key visuals such as bar charts, pie charts, and KPIs for easy interpretation of sales and customer metrics.
     + Set up filters and slicers to allow users to drill down by year, product category, and customer demographics.
     + Design a user-friendly interface that makes it easy for stakeholders to explore key data points and generate insights.
 ## Tools
   - Excel – Data Cleaning
   - SQL – Data Analysis
-  - Power BI – Data Visualization
+  - Power BI – Data Visualisation
     
 ## Features
 - **Sales Overview**: Track total sales, profit, and units sold across different product categories and time periods.
-- **Customer Demographics**: Visualize customer data such as age, location, and segment breakdowns.
-- **Product Profitability**: Analyze product categories to identify the most profitable items.
+- **Customer Demographics**: Visualise customer data such as age, location, and segment breakdowns.
+- **Product Profitability**: Analyse product categories to identify the most profitable items.
 - **Order Processing Times**: Explore how long orders take to process, and identify areas for efficiency improvements.
 - **Custom Filters**: Filter by year, category, and customer ID to drill into specific aspects of the data.
   
@@ -65,7 +65,7 @@ The dataset comes from company sales records, including information on sales tra
     
 **Recommendations**:
   - Expand Technology products to drive profit growth, as they are the most profitable category.
-  - Optimize order processing times for orders taking longer than 5 days to improve operational efficiency.
+  - Optimise order processing times for orders taking longer than 5 days to improve operational efficiency.
   - Focus marketing efforts on top regions (California, New York, and Texas) and explore opportunities in under-represented regions like Florida.
   - Introduce loyalty programs for at-risk customers to increase retention rates.
   - Review pricing strategies for Office Supplies to increase their profitability.
